@@ -23,6 +23,7 @@ public class GlyphLoader {
 	private int previousVertex= 0 ;
 	private int edgeIndex = 1;
 		
+	
 	  private static final java.lang.String TYPE_COLOR = "c";
 	  private static final java.lang.String TYPE_VERTEX = "v";  
 	  private static final java.lang.String TYPE_EDGE = "e";  
